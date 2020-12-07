@@ -38,3 +38,6 @@ https://mae.ufl.edu/nkim/egm6352/Chap1.pdf
 
 Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots
 https://www.youtube.com/watch?v=UO98lJQ3QGI&ab_channel=CoreySchafer
+
+Plotly - Library for plots (3D) 
+https://plotly.com/python/3d-isosurface-plots/
